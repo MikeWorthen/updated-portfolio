@@ -1,0 +1,21 @@
+body {
+    font-family: Montserrat, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.6rem;
+}
+
+#logo {
+    width: 60px;
+    height: 60px;
+    margin: 8px 0 0 60px;
+}
+
+.nav {
+    height: 80px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: black;
+}
